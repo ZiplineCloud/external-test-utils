@@ -1,0 +1,15 @@
+{
+  "Data": {
+    "payload": {
+      "firstName": "John",
+      "lastName": "Smith",
+      "mobileNumber": "0404040404",
+      "emailAddress": "staging@pendula.com",
+      "preferredContactMethod": "SMS"
+    },
+    "customContext": {
+      "externalMessageId": "message-1234"
+    }
+  },
+  "PartitionKey": "123"
+}
